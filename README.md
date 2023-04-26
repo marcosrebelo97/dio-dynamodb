@@ -1,5 +1,4 @@
-# dio-live-dynamodb
-Repositório para o live coding do dia 30/09/2021 sobre o Amazon DynamoDB
+## Repositório criado durante o bootcamp Java Developer sobre o Amazon DynamoDB.
 
 ### Serviço utilizado
   - Amazon DynamoDB
